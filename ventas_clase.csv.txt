@@ -1,0 +1,10 @@
+fecha,producto,categoria,precio,cantidad,region,vendedor,ingreso
+2023-05-10,Impresora,Hardware,250,4,Este,Laura,1000
+2023-05-12,Tablet,Dispositivos,400,3,Oeste,Carlos,1200
+2023-05-15,Cámara,Fotografía,550,2,Este,Laura,1100
+2023-06-02,Impresora,Hardware,250,5,Norte,Andrés,1250
+2023-06-10,Tablet,Dispositivos,400,2,Norte,Andrés,800
+2023-06-15,Audífonos,Accesorios,80,10,Oeste,Carlos,800
+2023-07-01,Cámara,Fotografía,550,1,Este,Laura,550
+2023-07-05,Audífonos,Accesorios,80,12,Norte,Andrés,960
+2023-07-12,Tablet,Dispositivos,400,5,Oeste,Carlos,2000
